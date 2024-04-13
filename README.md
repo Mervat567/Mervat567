@@ -10,7 +10,7 @@
 
 <br>
 
-- :school: I am a `fresh graduated` from [Faculty of Computers and Information](beni-suef.edu.eg/cisfac/pages/home.aspx) at [Beni suef University,](beni-suef.edu.eg/pages/default.aspx).
+- :school: I am a `fresh graduated` from [Faculty of Computers and Information](https://beni-suef.edu.eg/cisfac/pages/home.aspx) at [Beni suef University,](https://www.beni-suef.edu.eg/pages/default.aspx).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
